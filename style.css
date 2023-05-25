@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.links{
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.links a{
+    text-decoration: none;
+}
+.item{
+    align-items: center;
+}
+.margin-auto{
+    /* margin-left: 50px; */
+    width: 500px;
+    height: 50px;
+    margin: auto;
+}
+.first-sec{
+    width: 80%;
+    height: 600px;
+    margin: auto;
+    margin-top: 24px;
+    background-image: url(./Assets/Landsale-poster.jpg);
+    background-size: cover;
+}
+.cover{
+    background-size: cover;
+}
+.video{
+    width: inherit;
+}
