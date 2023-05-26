@@ -24,15 +24,50 @@
 }
 .first-sec{
     width: 80%;
-    height: 600px;
     margin: auto;
     margin-top: 24px;
-    background-image: url(./Assets/Landsale-poster.jpg);
-    background-size: cover;
 }
 .cover{
     background-size: cover;
 }
 .video{
     width: inherit;
+}
+.text-pink{
+    color: rgb(255, 87, 255);
+}
+.sec-pic{
+    background-image: url(./Assets/BLOKTOPIA-3-910x1024.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.sec-pic-con{
+    width: 470px;
+    margin: auto;
+}
+.img-3{
+    height: 600px;
+    background-image: url(./Assets/BLOKTOPIA-15-copy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img-3-con{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    left: 26%;
+    
+}
+.bg-gray{
+    background-color: rgba(0, 0, 0, 0.527);
+}
+.hieght{
+    height: 450px;
+}
+.sec-2{
+    width: 80%;
+    height: 600px;
+    margin: auto;
 }
